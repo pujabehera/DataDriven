@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="DataDrivenTesting">
+  <test  name="Bank Manager Login Test">
+    <classes>
+      <class name="com.kgs.testCases.BankManagerLoginTest"/>
+    </classes>
+  </test> <!-- Test -->
+  
+  <test  name="Add Customer Test">
+    <classes>
+      <class name="com.kgs.testCases.AddCustomerTest"/>
+    </classes>
+  </test>
+</suite> <!-- Suite -->

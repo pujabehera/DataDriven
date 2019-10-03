@@ -1,0 +1,5 @@
+com\kgs\testCases\BankManagerLoginTest.class
+com\kgs\rough\TestProperties.class
+com\kgs\base\TestBase.class
+com\kgs\testCases\AddCustomerTest.class
+com\kgs\utilites\ExcelReader.class
